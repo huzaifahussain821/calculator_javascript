@@ -1,0 +1,36 @@
+.maindiv,.container{
+    border: 2px ;
+    width: 660px;
+    margin: 0 auto;
+    background-color: #e6e6e6;
+    box-shadow: 4px 4px 4px 4px black;
+    
+}
+body{
+    background-color:   #47d147;
+    
+    
+}
+#result{
+    font-weight: bolder;
+    font-size: larger;
+    width: 650px;
+    height: 60px;
+}
+.btn{
+    margin: 5px;
+    font-weight: bolder;
+    font-size: larger;
+    font-style: italic;
+    margin-top: 14px;
+    width: 150px;
+    height: 38px;
+    margin-bottom: 10px;
+  
+    background-color:  	#c2f0c2;
+}
+
+button:hover{
+    border-color: brown;
+    cursor: pointer;
+}
